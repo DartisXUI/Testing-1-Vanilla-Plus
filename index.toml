@@ -108,6 +108,11 @@ hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
 
 [[files]]
+file = "mods/coralreef.pw.toml"
+hash = "d3c4aa1f0516560421d843de606d1a4e5c2a5f4c26d057c41a5b1c4e37a891e9"
+metafile = true
+
+[[files]]
 file = "mods/craftstudio-api.pw.toml"
 hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
 metafile = true
