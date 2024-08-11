@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configs/quark.cfg"
-hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
