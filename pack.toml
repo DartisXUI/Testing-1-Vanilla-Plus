@@ -1,0 +1,13 @@
+name = "Dartis-Craft - Testing 1 - Vanilla Plus"
+author = "Dartis_Xui"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3d2bc219c293efcaab14631989d9400b7943899da30a3b24e3c13910e3c3823"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
