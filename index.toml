@@ -298,11 +298,6 @@ hash = "64f81ceb520bde5db97e6787763bb1b7aae2e8a253ba4f6357dc77041010fd33"
 metafile = true
 
 [[files]]
-file = "mods/oreberries.pw.toml"
-hash = "24b61bc846fd7f214cddfd811623cfe60b3b9eb3f1320a2491b406b2da370bf4"
-metafile = true
-
-[[files]]
 file = "mods/prefab.pw.toml"
 hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
 metafile = true
