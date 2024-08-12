@@ -74,6 +74,11 @@ hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
 metafile = true
 
 [[files]]
+file = "mods/atlcraft-candles-mod.pw.toml"
+hash = "b31a9bd0f102bb98a218c91904022e9ac53624f85dd225aefdb31d1657addeae"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
