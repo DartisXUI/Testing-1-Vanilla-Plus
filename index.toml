@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/TinkerToolLeveling.cfg"
-hash = "3cbd82e1036a6e444b028cf42d83448107d6ef8aa01a37098a8efa62821b4c4e"
-
-[[files]]
 file = "config/Waystones.cfg"
 hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
+
+[[files]]
+file = "config/huntingdim/huntingdim.cfg"
+hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
 [[files]]
 file = "config/natura.cfg"
@@ -23,10 +23,6 @@ hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 [[files]]
 file = "config/reccomplex.cfg"
 hash = "b3c4bd6ef4af1b55d87f3d9ca33b0eb7e9043605cb2069706b22963e3c33d487"
-
-[[files]]
-file = "config/tconstruct.cfg"
-hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -117,6 +113,11 @@ hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
@@ -179,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/horse-tweaks.pw.toml"
 hash = "db8018266ead23ac0382439a100b09af5a48f22721e96972322ff9a7eba34e5c"
+metafile = true
+
+[[files]]
+file = "mods/hunting-dimension.pw.toml"
+hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
 metafile = true
 
 [[files]]
