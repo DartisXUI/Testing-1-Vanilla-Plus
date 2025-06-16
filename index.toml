@@ -5,6 +5,10 @@ file = "config/Waystones.cfg"
 hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
+file = "config/animania_farm.cfg"
+hash = "29e4a570da4abfbd02ca5ad72824dde36e588ebec40064db360712b0926ba496"
+
+[[files]]
 file = "config/huntingdim/huntingdim.cfg"
 hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
